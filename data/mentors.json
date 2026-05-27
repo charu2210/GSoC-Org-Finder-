@@ -794,11 +794,6 @@
     "status": "fetch-failed",
     "lastFetched": "2026-05-09T16:09:12.548Z"
   },
-  
-    "tip": "",
-    "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
-  },
   "Invesalius": {
     "org": "Invesalius",
     "ideasUrl": "https://github.com/invesalius/invesalius3/wiki/GSoC-2026",
@@ -2658,24 +2653,19 @@
     ],
     "mentors": [
   {
-    "name": "",
-    "github": "timabbott",
-    "githubUrl": "https://github.com/timabbott"
-  },
-  {
-    "name": "",
-    "github": "andersk",
-    "githubUrl": "https://github.com/andersk"
-  },
-  {
-    "name": "",
-    "github": "alya",
-    "githubUrl": "https://github.com/alya"
-  }
-],
-    "mailingLists": [],
-    "tip": "Post a new topic in the GSoC stream with your background and interest.",
-    "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
-  }
+      "name": "Tim Abbott",
+      "github": "timabbott",
+      "githubUrl": "https://github.com/timabbott"
+    },
+    {
+      "name": "Anders Kaseorg",
+      "github": "andersk",
+      "githubUrl": "https://github.com/andersk"
+    }
+  ],
+  "mailingLists": [],
+  "tip": "Join the Zulip contributor chat and introduce yourself before discussing project ideas.",
+  "status": "ok",
+  "lastFetched": "2026-05-27T00:00:00.000Z"    
+}
 }
