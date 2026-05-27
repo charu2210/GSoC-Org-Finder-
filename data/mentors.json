@@ -2811,7 +2811,7 @@
   },
   "Zulip": {
   "org": "Zulip",
-  "ideasUrl": "https://zulip.readthedocs.io/en/latest/contributing/gsoc.html",
+  "ideasUrl": "https://zulip.readthedocs.io/en/latest/outreach/gsoc.html",
   "channels": [
     {
       "type": "Zulip",
